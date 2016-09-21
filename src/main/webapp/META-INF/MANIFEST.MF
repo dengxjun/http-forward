@@ -1,0 +1,25 @@
+Manifest-Version: 1.0
+Class-Path: . http-forward_lib/javax.servlet-api-3.1.0.jar http-forwar
+ d_lib/jstl-1.2.jar http-forward_lib/spring-web-4.1.4.RELEASE.jar http
+ -forward_lib/spring-aop-4.1.4.RELEASE.jar http-forward_lib/aopallianc
+ e-1.0.jar http-forward_lib/spring-beans-4.1.4.RELEASE.jar http-forwar
+ d_lib/spring-core-4.1.4.RELEASE.jar http-forward_lib/commons-logging-
+ 1.2.jar http-forward_lib/spring-context-4.1.4.RELEASE.jar http-forwar
+ d_lib/spring-expression-4.1.4.RELEASE.jar http-forward_lib/spring-web
+ mvc-4.1.4.RELEASE.jar http-forward_lib/spring-context-support-4.1.4.R
+ ELEASE.jar http-forward_lib/spring-tx-4.1.4.RELEASE.jar http-forward_
+ lib/fastjson-1.2.0.jar http-forward_lib/jackson-core-2.5.1.jar http-f
+ orward_lib/jackson-databind-2.5.1.jar http-forward_lib/jackson-annota
+ tions-2.5.0.jar http-forward_lib/jackson-module-jaxb-annotations-2.5.
+ 1.jar http-forward_lib/jackson-datatype-joda-2.5.1.jar http-forward_l
+ ib/joda-time-2.2.jar http-forward_lib/httpclient-4.3.5.jar http-forwa
+ rd_lib/httpcore-4.3.2.jar http-forward_lib/commons-codec-1.6.jar http
+ -forward_lib/commons-io-2.4.jar http-forward_lib/commons-lang-2.6.jar
+  http-forward_lib/slf4j-api-1.7.10.jar http-forward_lib/logback-class
+ ic-1.1.2.jar http-forward_lib/logback-core-1.1.2.jar http-forward_lib
+ /jetty-servlets-8.1.12.v20130726.jar http-forward_lib/jetty-continuat
+ ion-8.1.12.v20130726.jar http-forward_lib/jetty-client-8.1.12.v201307
+ 26.jar http-forward_lib/jetty-http-8.1.12.v20130726.jar http-forward_
+ lib/jetty-io-8.1.12.v20130726.jar http-forward_lib/jetty-util-8.1.12.
+ v20130726.jar http-forward_lib/junit-4.7.jar
+Main-Class: com.wb.httpforward.client.CometClient

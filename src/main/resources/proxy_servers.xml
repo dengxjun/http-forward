@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<proxyServers>
+	<proxyServer>
+		<name>rnd4</name>
+		<baseUrl>http://uat02-rnd4.wisers.com:9000/vs/api/v1</baseUrl>
+		<heartBeatUrl>http://192.168.44.8:8051/loveWS/heartBeat</heartBeatUrl>
+		<status>on</status>
+	</proxyServer>
+	<proxyServer>
+		<name>server1</name>
+		<baseUrl>http://192.168.44.8:8089/vs/api/v1</baseUrl>
+		<heartBeatUrl>http://192.168.44.8:8089/loveWS/heartBeat</heartBeatUrl>
+		<status>on</status>
+	</proxyServer>
+</proxyServers>
